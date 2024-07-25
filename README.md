@@ -1,4 +1,4 @@
-# reservoir_workflows
+# Reservoir_workflows
 Perform workflows of Reservoir Engineering using Python.
 Following approach will be used:
 Production Datasets for 5 years in Excel were downloaded from https://www.dmr.nd.gov/oilgas/mprindex.asp
@@ -8,3 +8,5 @@ Production Datasets for 5 years in Excel were downloaded from https://www.dmr.nd
 4. The consolidated CSV will be cleaned to ensure quality data is used for the Project
 
 NOTE: Datasets will be custom cleaned as per the objectives of the Project.
+
+Start with Decline Curve Analysis, then choose other workflows that can be automated.
